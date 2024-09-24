@@ -43,7 +43,7 @@ Library	Description	Link
 | Chalk-animation | [Chalk-animation](https://www.npmjs.com/package/chalk-animation)  |
 | Sleep | [Sleep](https://www.npmjs.com/package/sleep) |
 | Figlet | [Figlet](https://www.npmjs.com/package/figlet)  |
-| Gradient-string | [Gradient-string] (https://www.npmjs.com/package/gradient-string)  |
+| Gradient-string | [Gradient-string](https://www.npmjs.com/package/gradient-string)  |
 | Terminal-kit | [Terminal-kit](https://www.npmjs.com/package/terminal-kit)  |
 
 
