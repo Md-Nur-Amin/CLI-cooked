@@ -82,7 +82,7 @@ async function handleAnswer(correct) { // parameter for passing the right answer
         console.log(`${chalk.bgGreen("You are correct!")}`);
     }
     else {
-        spinner.error({ text: `💀💀💀 Game Over, you loose ${playerName}` });
+        spinner.error({ text: `💀💀💀 Game Over, you loose "${playerName}"` });
         process.exit(1); // 0  is for success, 1 is for error
     }
 
