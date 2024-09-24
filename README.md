@@ -19,7 +19,7 @@ If you have any questions, do not hesitate to ask me.
 
 ## 🛠️ Installation
 1. **Clone the Repository:**
-git clone: [https://github.com/Md-Nur-Amin/CLI-cooked]
+git clone: https://github.com/Md-Nur-Amin/CLI-cooked
 
 
 
@@ -37,14 +37,14 @@ Library	Description	Link
 
 |  Library  | Description |
 | ------------- | ------------- |
-| Chalk  | [link](https://www.npmjs.com/package/chalk)  |
-| inquirer | [https://www.npmjs.com/package/inquirer]  |
-| nanospinner | [https://www.npmjs.com/package/nanospinner]  |
-| chalk-animation | [https://www.npmjs.com/package/chalk-animation]  |
-| sleep | [https://www.npmjs.com/package/sleep]  |
-| figlet | [https://www.npmjs.com/package/figlet]  |
-| gradient-string |  [https://www.npmjs.com/package/gradient-string]  |
-|  terminal-kit | [https://www.npmjs.com/package/terminal-kit]  |
+| Chalk  | [Chalk](https://www.npmjs.com/package/chalk)  |
+| Inquirer | [Inquirer](https://www.npmjs.com/package/inquirer)  |
+| Nanospinner | [Nanospinner](https://www.npmjs.com/package/nanospinner )|
+| Chalk-animation | [Chalk-animation](https://www.npmjs.com/package/chalk-animation)  |
+| Sleep | [Sleep](https://www.npmjs.com/package/sleep) |
+| Figlet | [Figlet](https://www.npmjs.com/package/figlet)  |
+| Gradient-string | [Gradient-string] (https://www.npmjs.com/package/gradient-string)  |
+| Terminal-kit | [Terminal-kit](https://www.npmjs.com/package/terminal-kit)  |
 
 
 ### 🌱 How It Works
