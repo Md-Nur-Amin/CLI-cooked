@@ -37,7 +37,7 @@ Library	Description	Link
 
 |  Library  | Description |
 | ------------- | ------------- |
-| Chalk  | [https://www.npmjs.com/package/chalk]  |
+| Chalk  | [link](https://www.npmjs.com/package/chalk)  |
 | inquirer | [https://www.npmjs.com/package/inquirer]  |
 | nanospinner | [https://www.npmjs.com/package/nanospinner]  |
 | chalk-animation | [https://www.npmjs.com/package/chalk-animation]  |
